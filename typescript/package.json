@@ -2,7 +2,7 @@
   "name": "substrate-cli-tools",
   "author": "Kirill Taran",
   "dependencies": {
-    "@polkadot/api": "^1.8.1",
+    "@polkadot/api": "^5.0.1",
     "blakejs": "^1.1.0",
     "chalk": "^3.0.0",
     "ts-node": "^8.8.1",
